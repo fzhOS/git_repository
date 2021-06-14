@@ -4,4 +4,4 @@ hello cpp
 hello c
 hello javascript
 Git is a distributed version control system.
-Git is a free software.
+Git is a free software distributed udner the GPL.
